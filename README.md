@@ -1,7 +1,8 @@
 <h1>
-    <img alt="CINEP" title="#SIGPATRI" src="https://otimize-edoc.s3.amazonaws.com/edoc_516/logo_cinep.png" width="150px" heigth="50px" />
+    <img alt="CINEP" title="#SIGPATRI" src="https://otimize-edoc.s3.amazonaws.com/edoc_516/logo_cinep.png" width="150px" heigth="50px" /> <img alt="Governo" title="Paraiba" src="https://paraiba.pb.gov.br/++theme++paraiba2019/images/LogoSite.svg" width="150px"
+    <h1 align="center"> SIGPATRI </h1>
 </h1>
-<h1 align="center"> SIGPATRI </h1>
+
 
 O Sigpatri é uma aplicação web voltada ao gerenciamento de distritos, áreas e lotes para empresas instaladas ou que buscam se instalar no Estado da Paraíba.
 
