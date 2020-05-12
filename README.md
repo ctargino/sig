@@ -1,5 +1,5 @@
-<h1 align="center">
-    <img alt="CINEP" title="#SIGPATRI" src="https://otimize-edoc.s3.amazonaws.com/edoc_516/logo_cinep.png" width="250px" />
+<h1>
+    <img alt="CINEP" title="#SIGPATRI" src="https://otimize-edoc.s3.amazonaws.com/edoc_516/logo_cinep.png" width="150px" />
  SIGPATRI
 </h1>
 
