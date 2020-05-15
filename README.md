@@ -6,9 +6,13 @@
 
 O Sigpatri é uma aplicação web voltada ao gerenciamento de distritos, áreas e lotes para empresas instaladas ou que buscam se instalar no Estado da Paraíba.
 
-## Gettin Started
+## 📐 Arquitetura
+<p align="left"> <b>Front-End</b> </br> <img alt="Arquitetura" title="Front-End" src="https://user-images.githubusercontent.com/19331255/82074752-9d42cd00-96b1-11ea-9cd4-16b6265867af.png" width="250px"/> </p>  <p align="left"> <b>Back-End </b> </br> <img alt="Arquitetura" title="Back-End" src="https://user-images.githubusercontent.com/19331255/82075157-34a82000-96b2-11ea-9090-07f173bfcf56.png" width="250px"/></p> 
 
-### Instalação -Backend
+
+## 🏁 Gettin Started
+
+### #Instalação -Backend ⚙️
 
 - Instale em sua estação o aplicativo [Docker](https://www.docker.com/) e o Docker-Compose
 
@@ -18,11 +22,11 @@ O Sigpatri é uma aplicação web voltada ao gerenciamento de distritos, áreas 
 
 *Após a execução do comando, todas as dependências serão instaladas e o servidor backend estará rodando na estação.*
 
-### Instalação - Database
+### #Instalação - Database 🔑
 
 [orientações gerais sobre o setup do banco]
 
-### Instalação - Frontend
+### #Instalação - Frontend 💻
 
 -   É necessário ter instalado em sua máquina o **[Node.js](https://nodejs.org/en/)** para gerenciar as dependências do App React com o npm (que já vem instalado com o Node.js) e [yarn](https://classic.yarnpkg.com/en/docs/install#alternatives-stable).
 -   Clone o repositório para o diretório de sua preferência
